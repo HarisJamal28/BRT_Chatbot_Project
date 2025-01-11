@@ -1,0 +1,473 @@
+[
+  {
+    "routeNumber": "DR3A",
+    "routeName": "Dabgari - Kohat Adda",
+    "stops": [
+      "Shaheed Saqib Ghani School",
+      "Civil Quarters",
+      "Bhana Marri",
+      "Civil Colony",
+      "Technical College",
+      "Landi Arbab",
+      "Garhi Qamar Din",
+      "Gulshan Rehman Colony",
+      "Kohat Adda"
+    ],
+    "timings": {
+      "firstBus": "06:00 AM",
+      "lastBus": "09:30 PM",
+      "interval": "10 minutes"
+    }
+  },
+  {
+    "routeNumber": "ER01",
+    "routeName": "Chamkani - Karkhano Market",
+    "stops": [
+      "Chamkani",
+      "Sardhar Garhi",
+      "Lahore Adda",
+      "Hashtnagri",
+      "Malik Saad Shaheed",
+      "Khyber Bazar",
+      "Dabgari Gardens",
+      "Saddar Bazar",
+      "University of Peshawar",
+      "Mall of Hayatabad",
+      "Karkhano Market"
+    ],
+    "timings": {
+      "firstBus": "06:30 AM",
+      "lastBus": "10:00 PM",
+      "interval": "15 minutes"
+    }
+  },
+  {
+    "routeNumber": "SR02",
+    "routeName": "Chamkani - Karkhano Market",
+    "stops": [
+      "Chamkani",
+      "Sardar Garhi",
+      "Chugal Pura",
+      "Faisal Colony",
+      "Old Haji Camp",
+      "Lahore Adda",
+      "Gulbahar Chowk",
+      "Hashtnagri",
+      "Malik Saad Shaheed",
+      "Khyber Bazar",
+      "Shoba Bazar",
+      "Dabgari Gardens",
+      "Railway Station",
+      "FC Chowk",
+      "Saddar Bazar",
+      "Mall Road",
+      "Tehkal Payyan",
+      "Tehkal Bala",
+      "Abdara Road",
+      "University Town",
+      "University of Peshawar",
+      "Islamia College",
+      "Board Bazar",
+      "Mall of Hayatabad",
+      "Bab-e-Peshawar",
+      "Hayatabad Phase 3",
+      "Tatara Park",
+      "PDA",
+      "Hospital Chowk",
+      "Karkhano Market"
+    ],
+    "timings": {
+      "firstBus": "07:00 AM",
+      "lastBus": "09:00 PM",
+      "interval": "20 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR03B",
+    "routeName": "Malik Saad Shaheed - Shah Alam Pul",
+    "stops": [
+      "Malik Saad Shaheed",
+      "Bacha Khan Chowk",
+      "Shahi Bagh",
+      "Eid Gah",
+      "Charsadda Adda",
+      "Shaheen Tehseen Chowk",
+      "Budhni Pul",
+      "Nishat Mill",
+      "Landay Sarrak",
+      "Shero Jhangi",
+      "Habib Abad",
+      "Ibrahim Abad",
+      "Bakhshu Pul",
+      "Muslim Abad",
+      "Nasapa",
+      "Nasapa Bala",
+      "Sugar Mill",
+      "Sewan",
+      "Faqeer Abad",
+      "Khazana",
+      "Tauda",
+      "Wahid Ghari",
+      "Shah Alam Pul"
+    ],
+    "timings": {
+      "firstBus": "06:15 AM",
+      "lastBus": "09:45 PM",
+      "interval": "12 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR04A",
+    "routeName": "Mall Road - Pishtakhara Chowk",
+    "stops": [
+      "Mall Road",
+      "University Road",
+      "Board Bazar",
+      "Pishtakhara Chowk"
+    ],
+    "timings": {
+      "firstBus": "06:00 AM",
+      "lastBus": "09:00 PM",
+      "interval": "15 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR04B",
+    "routeName": "Chamkani - Malik Saad Shaheed via Ring Road",
+    "stops": [
+      "Chamkani",
+      "Ring Road East",
+      "Ring Road West",
+      "Malik Saad Shaheed"
+    ],
+    "timings": {
+      "firstBus": "06:45 AM",
+      "lastBus": "10:15 PM",
+      "interval": "10 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR05",
+    "routeName": "Mall of Hayatabad - Phase 6 Terminal",
+    "stops": [
+      "Mall of Hayatabad",
+      "Bakht Khan Market",
+      "Basharat Market",
+      "Yousafzai Market",
+      "Ring Road Bridge",
+      "Itwar Bazar",
+      "Achini",
+      "Shalman Park",
+      "Government College",
+      "CECOS University",
+      "Gol Chowk",
+      "Nawab Market",
+      "Phase 6 Terminal"
+    ],
+    "timings": {
+      "firstBus": "06:20 AM",
+      "lastBus": "09:40 PM",
+      "interval": "15 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR06",
+    "routeName": "Mall of Hayatabad - Phase 7 Terminal",
+    "stops": [
+      "Mall of Hayatabad",
+      "Bab-e-Peshawar",
+      "Hayatabad Phase 3",
+      "Bagh-e-Naran",
+      "Iqra University",
+      "Itwar Bazar",
+      "Zarghuni Masjid",
+      "Lalazar",
+      "Malik Saad Shaheed",
+      "Rehman Baba Market",
+      "Haji Camp",
+      "Judicial Complex",
+      "Madrassa",
+      "Football Ground",
+      "IMSciences",
+      "Phase 7 Terminal"
+    ],
+    "timings": {
+      "firstBus": "06:15 AM",
+      "lastBus": "09:50 PM",
+      "interval": "10 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR07",
+    "routeName": "Karkhano Market - Phase 7 Terminal",
+    "stops": [
+      "Karkhano Market",
+      "Karkhano Chowk",
+      "TEVTA",
+      "Fort",
+      "Industrial Estate",
+      "Fast University",
+      "Shamali Market",
+      "Lalazar",
+      "Zarghuni Masjid",
+      "Deans Heights",
+      "Phase 7 Chowk",
+      "Gol Chowk",
+      "Bangash Market",
+      "Phase 7 Terminal"
+    ],
+    "timings": {
+      "firstBus": "06:00 AM",
+      "lastBus": "09:30 PM",
+      "interval": "12 minutes"
+    }
+  },
+  {
+    "routeNumber": "SR08",
+    "routeName": "Gulbahar Chowk - Mall of Hayatabad",
+    "stops": [
+      "Gulbahar Chowk",
+      "Hashtnagri",
+      "Malik Saad Shaheed",
+      "Khyber Bazar",
+      "Shoba Bazar",
+      "Dabgari Gardens",
+      "Railway Station",
+      "FC Chowk",
+      "Saddar Bazar",
+      "Mall Road",
+      "Tehkal Payyan",
+      "Tehkal Bala",
+      "Abdara Road",
+      "University Town",
+      "University of Peshawar",
+      "Islamia College",
+      "Board Bazar",
+      "Mall of Hayatabad"
+    ],
+    "timings": {
+      "firstBus": "06:30 AM",
+      "lastBus": "10:00 PM",
+      "interval": "15 minutes"
+    }
+  },
+  {
+    "routeNumber": "ER09",
+    "routeName": "Gulbahar Chowk - Phase 6 Terminal",
+    "stops": [
+      "Gulbahar Chowk",
+      "Malik Saad Shaheed",
+      "Dabgari Gardens",
+      "Saddar Bazar",
+      "Abdara Road",
+      "University of Peshawar", 
+      "Board Bazar", 
+      "Basharat Market", 
+      "Yousafzai Market", 
+      "Ring Road Bridge", 
+      "Zarghuni Masjid", 
+      "Gol Chowk", 
+      "Nawab Market", 
+      "Phase 6 Terminal"
+    ],
+    "timings": {
+      "firstBus": "06:45 AM",
+      "lastBus": "10:00 PM",
+      "interval": "20 minutes"
+    }
+  },
+  {
+    "routeNumber": "ER10",
+    "routeName": "Hospital Chowk - Kohat Adda",
+    "stops": [
+      "Hospital Chowk",
+      "Hayatabad Phase 3",
+      "Mall of Hayatabad",
+      "University of Peshawar",
+      "Tehkal Payyan",
+      "Saddar Bazar",
+      "Bhana Marri",
+      "Technical College",
+      "Garhi Qamar Din",
+      "Kohat Adda"
+    ],
+    "timings": {
+      "firstBus": "06:10 AM",
+      "lastBus": "09:20 PM",
+      "interval": "10 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR11",
+    "routeName": "Phase 6 Terminal - Mall of Hayatabad",
+    "stops": [
+      "Phase 6 Terminal",
+      "Sher Shah Market",
+      "Government College",
+      "Shalman Park Phase 2",
+      "Turangzai Market",
+      "Itwar Bazar",
+      "Zarghuni Masjid",
+      "Lalazar",
+      "Phase 1",
+      "Shama Market",
+      "Khyber Park",
+      "Hayatabad Police Station",
+      "Qurtuba University",
+      "Hayatabad Phase 3",
+      "Bab-e-Peshawar",
+      "Mall of Hayatabad"
+    ],
+    "timings": {
+      "firstBus": "06:30 AM",
+      "lastBus": "10:15 PM",
+      "interval": "12 minutes"
+    }
+  },
+  {
+    "routeNumber": "ER12",
+    "routeName": "Mall of Hayatabad - Shah Alam Pul",
+    "stops": [
+      "Mall of Hayatabad",
+      "University of Peshawar",
+      "Saddar Bazar",
+      "Khyber Bazar",
+      "Bacha Khan Chowk",
+      "Charsadda Adda",
+      "Shaheed Tehseen Chowk",
+      "Landay Sarrak",
+      "Bakhshu Pul",
+      "Sewan",
+      "Shah Alam Pul"
+    ],
+    "timings": {
+      "firstBus": "06:20 AM",
+      "lastBus": "09:30 PM",
+      "interval": "15 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR13",
+    "routeName": "Sardar Garhi - Pabbi",
+    "stops": [
+      "Sardar Garhi",
+      "Chamkani",
+      "Chamkani Morr",
+      "Shahad Market",
+      "Jhagra",
+      "Kala Mandi",
+      "Tarnab Farm",
+      "Wapda Town",
+      "Govt Girls Degree College",
+      "Pabbi Railway Station",
+      "Kajor Stop",
+      "Pabbi Bazar",
+      "Pabbi Terminal"
+    ],
+    "timings": {
+      "firstBus": "06:15 AM",
+      "lastBus": "09:30 PM",
+      "interval": "20 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR14",
+    "routeName": "Islamia College - Regi Model Town",
+    "stops": [
+      "Islamia College",
+      "Board Bazar",
+      "PTCL Office",
+      "Canal Bank Colony",
+      "Naseer Teaching Hospital",
+      "PSO Stop",
+      "Police Colony",
+      "Askari 6 Phase 2",
+      "Askari 6 Phase 1",
+      "Mian Khan Garhi",
+      "Badezai",
+      "Masjid Abu Huraira",
+      "Zone 3 Ground",
+      "Govt Girls Primary School",
+      "Bangash Park",
+      "Masjid e Hamza",
+      "PDA Office",
+      "Masjid Omar Farooq",
+      "Masjid Khalid bin Waleed",
+      "Masjid Abu Bakr",
+      "Regi Model Town"
+    ],
+    "timings": {
+      "firstBus": "06:00 AM",
+      "lastBus": "09:30 PM",
+      "interval": "15 minutes"
+    }
+  },
+  {
+    "routeNumber": "DR14A",
+    "routeName": "Islamia College - DHA",
+    "stops": [
+      "Islamia College",
+      "Board Bazar",
+      "PTCL Office",
+      "Canal Bank Colony",
+      "Naseer Teaching Hospital",
+      "PSO Stop",
+      "Police Colony",
+      "Askari 6 Phase 2",
+      "Askari 6 Phase 1",
+      "Mian Khan Garhi",
+      "Badezai",
+      "Regi Model Town",
+      "DHA",
+      "Professor Model Town"
+    ],
+    "timings": {
+      "firstBus": "06:45 AM",
+      "lastBus": "09:45 PM",
+      "interval": "20 minutes"
+    }
+  },
+  {
+    "routeNumber": "XER15",
+    "routeName": "Chamkani - Mall of Hayatabad",
+    "stops": [
+      "Chamkani",
+      "Sardhar Garhi",
+      "Bacha Khan Chowk",
+      "Saddar Bazar",
+      "University of Peshawar",
+      "Mall of Hayatabad"
+    ],
+    "timings": {
+      "firstBus": "06:20 AM",
+      "lastBus": "10:15 PM",
+      "interval": "12 minutes"
+    }
+  },
+  {
+    "routeNumber": "ER16",
+    "routeName": "Gulbahar Chowk - Nawab Market",
+    "stops": [
+      "Gulbahar Chowk",
+      "Malik Saad Shaheed",
+      "Saddar Bazar",
+      "Tehkal Bala",
+      "Abdara Road",
+      "University of Peshawar",
+      "Board Bazar",
+      "Mall of Hayatabad",
+      "Zarghuni Masjid",
+      "Malik Saad Market",
+      "Haji Camp",
+      "Madrassa",
+      "Phase 7 Terminal",
+      "Gol Chowk",
+      "Nawab Market"
+    ],
+    "timings": {
+      "firstBus": "06:30 AM",
+      "lastBus": "10:00 PM",
+      "interval": "15 minutes"
+    }
+  }
+]
